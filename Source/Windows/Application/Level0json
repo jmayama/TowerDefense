@@ -1,0 +1,3078 @@
+
+{
+	"tiles" : 
+	[
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 5
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 3
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 2
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 1
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 3
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		},
+		
+		{
+			"tileType" : 0
+		}
+	]
+}
